@@ -1,3 +1,3 @@
-# exercises
-Data Science Exercises
+
+#Data Science 
 Excel and Sql exercises
