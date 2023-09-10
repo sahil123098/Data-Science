@@ -1,3 +1,3 @@
 
 #Data Science 
-Excel and Sql exercises
+Excel, Sql, Python, Statistics, Probability, Machine Learning exercises
